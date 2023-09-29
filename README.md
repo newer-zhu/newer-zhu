@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi 👋
+I'm holden, Welcome to my GitHub profile!
 
-<!--
-**newer-zhu/newer-zhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current projects
+work on some thing related with finance, which is secrecy because of some policy issued by my company.
 
-Here are some ideas to get you started:
+🛠️ technology stack
+I am a software developer with expertise in the Java technology stack, 
+proficiency in C/C++, 
+and knowledge of front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+- English
+- DevOps technology stack.
+
+👯 Looking to collaborate?
+I'm always looking for a remote job offer!
+
+📫 How to reach me
+Email: zhd30@outlook.com
+
+⚡ Fun fact
+[I'm OK with all kinds of opportunities of coding!]
