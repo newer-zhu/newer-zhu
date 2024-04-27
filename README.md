@@ -4,7 +4,7 @@ I'm Holden, Welcome to my GitHub profile!
 
 🔭 Current projects
 
-Working on something related to finance, which is secrecy because of some policy issued by my company.
+Working on something related to finance, which is secrecy because of some policies issued by my company.
 
 🛠️ technology stack 
 
